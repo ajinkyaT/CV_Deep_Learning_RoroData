@@ -2,7 +2,7 @@
 
 ### Following are the links to work done during internship at Rorodata.
 
-Ultrasound Nerve Segmentation using Keras: https://medium.com/@ajinkya.takawale97/1854889e151
+Ultrasound Nerve Segmentation using Keras: https://medium.com/@ajinkya.takawale97/1854889e151{:target="_blank"}
 
 Classifying mono-nuclear and poly-nuclear white blood cells: https://medium.com/@ajinkya.takawale97/c78955aac3e4
 
