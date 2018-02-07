@@ -1,6 +1,6 @@
-## RoroData Internship
+# RoroData Internship
 
-# Links to work done during internship at Rorodata.
+### Following are the links to work done during internship at Rorodata.
 
 Ultrasound Nerve Segmentation using Keras: https://medium.com/@ajinkya.takawale97/1854889e151
 
